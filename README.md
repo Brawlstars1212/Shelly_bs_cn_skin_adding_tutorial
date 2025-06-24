@@ -1,4 +1,4 @@
-# how to add the shelly skin from chinese server
+# how to add the shelly skin from chinese server v51+
 
 1. extact all the files : https://github.com/Brawlstars1212/Shelly_bs_cn_skin_adding_tutorial/raw/refs/heads/main/shelly%20cn%20skin%20how%20to%20add%20to%20your%20bs%20server.zip
 2. go to the skins.csv files and copy the row of the shotgungirl text
